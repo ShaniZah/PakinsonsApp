@@ -16,8 +16,7 @@ import {
   View,
   Text
 } from 'react-native';
-
-import { LoginScreenFunc } from '@/src/screens/loginScreen/LoginScreen';
+import { LoginScreenFunc } from './loginScreen/LoginScreen';
 
 import {
   Colors,
